@@ -1,0 +1,18 @@
+.nav {
+    display: flex;
+    justify-content: space-around;
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(229, 231, 231, 0.5)), url("https://pbs.twimg.com/media/CcvcLQvW0AAlEtL.jpg");
+    background-size: cover;
+    padding: 10px;
+    color: aliceblue;
+    font-size: 20px;
+    align-items: center;
+    background-size: contain;
+}
+
+.searchBar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 50px;
+}
